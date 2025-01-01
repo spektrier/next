@@ -1,0 +1,74 @@
+[
+    {
+      "title": "HTML",
+      "image": "https://logo-share.blogspot.com/2013/09/html5-logo.html",
+      "description": "Linguagem de marcação para criar páginas web.",
+      "rating": 5
+    },
+    {
+      "title": "CSS",
+      "image": "https://www.pngaaa.com/detail/3920311",
+      "description": "Folhas de estilo para personalização visual de páginas web.",
+      "rating": 4
+    },
+    {
+      "title": "JavaScript",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+      "description": "Linguagem de programação para interatividade em páginas web.",
+      "rating": 5
+    },
+    {
+      "title": "JSON",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg",
+      "description": "Formato leve de troca de dados.",
+      "rating": 4
+    },
+    {
+      "title": "API RESTful",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Restful-api-logo.png",
+      "description": "Padrão arquitetural para desenvolvimento de APIs.",
+      "rating": 5
+    },
+    {
+      "title": "Swagger",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
+      "description": "Ferramenta para documentação de APIs REST.",
+      "rating": 4
+    },
+    {
+      "title": "GitHub",
+      "image": "https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png",
+      "description": "Plataforma de hospedagem de código-fonte e controle de versão.",
+      "rating": 5
+    },
+    {
+      "title": "Codespaces",
+      "image": "https://github.com/skills/code-with-codespaces",
+      "description": "Ambiente de desenvolvimento na nuvem integrado ao GitHub.",
+      "rating": 4
+    },
+    {
+      "title": "GitHub Pages",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Octicons-mark-github.svg",
+      "description": "Serviço para hospedar sites diretamente de um repositório do GitHub.",
+      "rating": 4
+    },
+    {
+      "title": "React.js",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      "description": "Biblioteca JavaScript para criação de interfaces de usuário.",
+      "rating": 5
+    },
+    {
+      "title": "Next.js",
+      "image": "https://www.freelogovectors.net/wp-content/uploads/2022/10/next-js-logo.png",
+      "description": "Framework React para desenvolvimento de aplicações web.",
+      "rating": 5
+    },
+    {
+      "title": "Vercel",
+      "image": "https://vectorseek.com/wp-content/uploads/2021/12/Vercel-Logo-Vector.jpg",
+      "description": "Plataforma para deploy de aplicações web.",
+      "rating": 4
+    }
+  ]
